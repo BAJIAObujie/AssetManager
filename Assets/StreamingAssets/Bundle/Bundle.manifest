@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1256855699
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: particles/s_dust
+      Dependencies: {}
+    Info_1:
+      Name: particles/s_sun_shafts
+      Dependencies: {}
+    Info_2:
+      Name: particles/s_ground_fog
+      Dependencies: {}
+    Info_3:
+      Name: particles/s_falling_leaves
+      Dependencies: {}
